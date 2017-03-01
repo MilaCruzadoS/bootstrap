@@ -1,0 +1,179 @@
+body{
+    background-image:url("Imagenes/fondo.jpg");  
+}
+
+#menu{
+	position: relative;
+	margin-bottom: 1%;
+}
+
+
+#titulo{
+    text-align:center;
+    font-size:65px;
+    font-family:Algerian; 
+}
+
+#imgExpo{
+    position:relative;
+    left:115px;
+}
+
+#Tipos{
+    position:relative;
+    text-align:center;
+    font-size:25px;
+    font-family:Algerian;
+}
+
+p{
+    font-family:Andalus;
+    font-size:18px; 
+}
+
+#PiePagina{
+	background-color: black;
+	margin-top: 2%;
+}
+
+#texto{
+	font-family:Andalus;
+    font-size:25px; 
+	font-weight: bold;
+}
+
+#buscador{
+	position:relative;
+	margin-right:10px;
+}
+
+#divFooter{
+	position:relative;
+	margin-top: 20px;
+}
+
+#mapa{
+	 
+	position:relative;
+	right: 75px;
+ }
+ 
+#h4{
+	position:relative;
+	right: 75px;
+	font-family:Andalus;
+    font-size:25px; 
+	font-weight: bold;
+	margin-bottom:20px;
+ }
+ 
+i{
+	text-decoration: none;
+	color:gray;
+	
+ }
+ 
+.imgTitulo{
+	height:400px;
+	width:100%;
+}
+
+.imgClass{
+	margin-top:15%;
+	height: 200px;
+	margin-left: 26%;
+
+}
+
+.timg{
+	margin-left: 30%;
+	font-family:Algerian; 
+	margin-bottom:10%;
+	margin-top: 2%;
+	font-size: 30px;
+}
+
+#formulario{
+	padding:10%;
+}
+
+#contenedor{
+	margin: 0 20px;
+}
+
+#ImagenesEmpresa{
+	width:25%; 
+	float: right; 
+	padding: 0 15px;
+}
+
+#ImagenesEmpresa1{
+	width:25%; 
+	float: left; 
+	padding: 0 15px;
+}
+
+#tituloNoticias{
+	text-align:center
+}
+
+#ImagenesNoticias{
+	width:50%; 
+	float: right; 
+	padding: 0 15px;
+}
+
+#btn-consulta{
+	width: 82%;
+	margin-left:18%;
+}
+
+#imgProd{
+	width:400px;
+	height:200px;
+	margin-top:3%;
+}
+
+.textProd1{
+	font-family:Andalus; 
+	font-size: 22px;
+	margin-left: 38%; 
+	font-weight: bold;
+	
+}
+
+.textProd2{
+	font-family:Andalus; 
+	font-size: 22px;
+	margin-left: 45%; 
+	font-weight: bold;
+	
+}
+
+.textProd3{
+	font-family:Andalus; 
+	font-size: 22px;
+	margin-left: 38%;
+	font-weight: bold; 
+	
+}
+
+.textProd4{
+	font-family:Andalus; 
+	font-size: 22px;
+	margin-left: 44%; 
+	margin-bottom: 5%;
+	font-weight: bold;
+	
+}
+
+#tituloProd{
+	font-size:30px;
+    font-family:Algerian;
+}
+
+.textTable{
+	font-family:Andalus;
+	font-size: 18px;
+	margin-top: 2%;
+}
